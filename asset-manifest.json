@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shanakyan/hooks.git/static/css/main.df17fe68.css",
+    "main.js": "/Shanakyan/hooks.git/static/js/main.987cc7e5.js",
+    "static/js/453.1589b360.chunk.js": "/Shanakyan/hooks.git/static/js/453.1589b360.chunk.js",
+    "index.html": "/Shanakyan/hooks.git/index.html",
+    "main.df17fe68.css.map": "/Shanakyan/hooks.git/static/css/main.df17fe68.css.map",
+    "main.987cc7e5.js.map": "/Shanakyan/hooks.git/static/js/main.987cc7e5.js.map",
+    "453.1589b360.chunk.js.map": "/Shanakyan/hooks.git/static/js/453.1589b360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df17fe68.css",
+    "static/js/main.987cc7e5.js"
+  ]
+}
